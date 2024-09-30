@@ -1,4 +1,4 @@
-# 1ª Etapa – Modelo Entidade-Relacionamento (MER)
+# Modelo Entidade-Relacionamento (MER)
 Dadas as regras de negócio abaixo listadas, referentes ao estudo de caso de uma
 Clínica Médica, elabore o Modelo Entidade-Relacionamento (MER), isto é, o modelo
 conceitual.
