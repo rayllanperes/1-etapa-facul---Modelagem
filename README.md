@@ -25,4 +25,4 @@ As regras de negócio são:
 
 • Um médico pode atender zero ou vários convênios, assim como zero ou vários convênios podem ser atendidos por um médico;
 
-![image](https://github.com/user-attachments/assets/a64c7cde-82fb-42a1-baaa-d884b138e034)
+![image](https://github.com/user-attachments/assets/bb5da9d6-e99c-4629-bfa0-1975aa48adf5)
